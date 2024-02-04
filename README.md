@@ -1,5 +1,5 @@
 
-🌮 *Chipotle Order Analysis Project* 📊
+🌮 ****Chipotle Order Analysis Project**** 📊
 
 Welcome to the Chipotle Order Analysis project! 🚀 In this exciting data exploration journey, we delve into the delicious world of Chipotle orders. 🌯
 
